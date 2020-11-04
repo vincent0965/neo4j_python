@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
 ### 3.建立知識圖譜需要的node與relationship 
 1. create_data_neo4j.py  
-2. invoice_neo4j.py
+2. clothes_neo4j.py
 
 ### 4.連接neo4j
 
