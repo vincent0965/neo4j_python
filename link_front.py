@@ -6,9 +6,9 @@ import pandas as pd
 import random
 
 graph = Graph(
-                "http://localhost:7474",
+                "XXXX",
                 username="neo4j",
-                password="12345")
+                password="XXXX")
 
 app = Flask(__name__)
 # flask struct
